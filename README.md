@@ -4,7 +4,7 @@
 
 🧬 Data Analyst / Project Manager at a bioinformatics company
 
-📓 Middle School Science Teacher
+📓 Science Teacher at a middle school
 
 🌥 Data Scientist❓ This one is work in progress... 🤓
 
