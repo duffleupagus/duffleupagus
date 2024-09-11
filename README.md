@@ -1,4 +1,18 @@
-## Hi there 👋
+### My career progression:
+
+🧫 Molecular Biologist at a pharma 
+
+🧬 Data Analyst / Project Manager at a bioinformatics company
+
+📓 Middle School Science Teacher
+
+🌥 Data Scientist❓ This one is work in progress... 🤓
+
+<!--
+### Things I know/can do:
+
+🖥 UNIX: How to navigate a directory structure and analyze and manipulate the heck out of files (
+-->
 
 <!--
 **duffleupagus/duffleupagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
